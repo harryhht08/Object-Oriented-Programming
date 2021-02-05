@@ -1,1 +1,1 @@
-# Object-Oriented-Programming
+# Object-oriented programming projects implemented with Java
